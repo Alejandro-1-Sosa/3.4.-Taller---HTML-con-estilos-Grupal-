@@ -1,0 +1,55 @@
+body{
+    background-color: lightgray;
+    font-family:"Arial";
+    
+}
+
+h1{
+    font-family: "Verdana";
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+h2{
+    background-color: gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: start;
+    padding-left:0.5%;
+    color: white;
+}
+
+p{
+    text-indent: 20px;
+    }
+
+em{
+    color: red;
+}
+
+strong{
+    background-color: white;
+}
+
+#html, #css{
+    width: 12%;
+    height: 12%;
+    margin-right: 6px;
+    
+}
+
+.contenedores{
+    display: flex;
+    font-size: 12px;
+    margin-left: 20%;
+    margin-right: 20% ;
+    align-items: center;
+}
+
+.parrafos{
+    display: flex;
+flex-direction:column;
+text-align: justify;
+font-size: 14px;
+}
+
